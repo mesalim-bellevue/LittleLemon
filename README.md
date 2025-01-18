@@ -27,8 +27,8 @@ This project is part of a front-end development course, where I revisited essent
 
 ### Installation
 1. Clone the repository:
-sh
-git clone [repository_link]
+    sh
+    git clone [repository_link]
 
 2. Navigate to the project directory:
 sh
