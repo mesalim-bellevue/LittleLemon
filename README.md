@@ -1,8 +1,8 @@
 # Little Lemon Restaurant Table Booking System
-Course: Meta Front-End Development Capstone Project
-Developer/Designer: Meher Salim
+### Course: Meta Front-End Development Capstone Project
+### Developer/Designer: Meher Salim
 
-##Overview
+## Overview
 This project is part of a front-end development course, where I revisited essential concepts and knowledge, and applied my React skills to build a web app for the Little Lemon restaurant. The goal of this project is to create a form that allows users to book tables at the restaurant.
 
 ## Project Details
@@ -27,27 +27,27 @@ This project is part of a front-end development course, where I revisited essent
 
 ### Installation
 1. Clone the repository:
-    sh
-    git clone [repository_link]
+* sh
+* git clone [repository_link]
 
 2. Navigate to the project directory:
-sh
-cd little-lemon-booking
+* sh
+* cd little-lemon-booking
 
 3. Install dependencies:
-sh
-npm install
+* sh
+* npm install
 
 ### Running the Project
 Start the development server:
-sh
-npm start
+* sh
+* npm start
 The application will be available at http://localhost:3000.
 
 ### Running Tests
 Run the unit tests:
-sh
-npm test
+* sh
+* npm test
 
 ## Resources
 * React documentation: https://reactjs.org/docs/getting-started.html
