@@ -1,5 +1,6 @@
 # Little Lemon Restaurant Table Booking System
-Meta Front-End Development Capstone Project
+Course: Meta Front-End Development Capstone Project
+Developer/Designer: Meher Salim
 
 ##Overview
 This project is part of a front-end development course, where I revisited essential concepts and knowledge, and applied my React skills to build a web app for the Little Lemon restaurant. The goal of this project is to create a form that allows users to book tables at the restaurant.
